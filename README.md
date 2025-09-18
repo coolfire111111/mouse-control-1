@@ -26,7 +26,7 @@
 
 ### Option 1: DMG File (Recommended)
 
-1. [Download the latest release](https://github.com/coolfire111111/mouse-control/releases/latest)
+1. [Download MouseControl-1.0.dmg](./MouseControl-1.0.dmg)
 2. Double-click `MouseControl-X.X.dmg`
 3. Drag `MouseControl.app` to Applications folder
 4. Launch MouseControl from Applications

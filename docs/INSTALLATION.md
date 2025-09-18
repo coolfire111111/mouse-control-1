@@ -15,7 +15,7 @@ Different ways to install Mouse Control on your macOS system.
 
 The easiest and safest method:
 
-1. **Download**: [Get the latest release from GitHub](https://github.com/coolfire111111/mouse-control/releases/latest)
+1. **Download**: [Download MouseControl-1.0.dmg](../MouseControl-1.0.dmg)
 2. **Open**: Double-click `MouseControl-X.X.dmg`
 3. **Install**: Drag `MouseControl.app` to Applications folder
 4. **Launch**: Start MouseControl from Applications
